@@ -1,4 +1,7 @@
-# test coverage for  [enquire.js (v2.1.6)](http://wicky.nillia.ms/enquire.js)  [![npm package](https://img.shields.io/npm/v/npmtest-enquire.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-enquire.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-enquire.js.svg)](https://travis-ci.org/npmtest/node-npmtest-enquire.js)
+# npmtest-enquire.js
+
+#### basic test coverage for  [enquire.js (v2.1.6)](http://wicky.nillia.ms/enquire.js)  [![npm package](https://img.shields.io/npm/v/npmtest-enquire.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-enquire.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-enquire.js.svg)](https://travis-ci.org/npmtest/node-npmtest-enquire.js)
+
 #### Awesome Media Queries in JavaScript
 
 [![NPM](https://nodei.co/npm/enquire.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/enquire.js)
